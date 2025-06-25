@@ -1,0 +1,46 @@
+[
+  {
+    "meeting_id": "M001",
+    "date": "2025-06-26",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "title": "Project Kickoff",
+    "location": "Conference Room A",
+    "attendees": [
+      "john.doe@example.com",
+      "jane.smith@example.com",
+      "peter.jones@example.com"
+    ],
+    "organizer": "john.doe@example.com",
+    "description": "Initial meeting to discuss project goals, timelines, and team roles.",
+    "status": "scheduled"
+  },
+  {
+    "meeting_id": "M002",
+    "date": "2025-06-27",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "title": "Design Review",
+    "location": "Virtual Meeting",
+    "attendees": [
+      "john.doe@example.com",
+      "jane.smith@example.com",
+      "mary.brown@example.com"
+    ],
+    "organizer": "jane.smith@example.com",
+    "description": "Review of the initial design concepts and gathering feedback.",
+    "status": "scheduled"
+  },
+  {
+    "meeting_id": "M003",
+    "date": "2025-06-28",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "title": "Code Review",
+    "location": "Room 201",
+    "attendees": ["john.doe@example.com", "peter.jones@example.com"],
+    "organizer": "peter.jones@example.com",
+    "description": "Review of the latest code changes and discuss any potential issues.",
+    "status": "scheduled"
+  }
+]
