@@ -1,7 +1,7 @@
 [
   {
     "meeting_id": "M001",
-    "date": "2025-06-26",
+    "meeting_date": "2025-06-26",
     "start_time": "10:00",
     "end_time": "11:00",
     "title": "Project Kickoff",
@@ -15,7 +15,7 @@
   },
   {
     "meeting_id": "M002",
-    "date": "2025-06-27",
+    "meeting_date": "2025-06-27",
     "start_time": "14:00",
     "end_time": "15:00",
     "title": "Design Review",
@@ -29,12 +29,32 @@
   },
   {
     "meeting_id": "M003",
-    "date": "2025-06-28",
+    "meeting_date": "2025-06-28",
     "start_time": "10:00",
     "end_time": "11:00",
     "title": "Code Review",
     "location": "Room 201",
     "attendees": ["john.doe@example.com", "peter.jones@example.com"],
     "status": "scheduled"
+  },
+  {
+    "meeting_id": "M006",
+    "meeting_date": "2025-07-04",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "title": "AI Integration Discussion",
+    "location": "Room 4212",
+    "attendees": ["john.doe@example.com"],
+    "status": "pending"
+  },
+  {
+    "meeting_id": "M006",
+    "meeting_date": "2025-07-12",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "title": "AI Agenda Review",
+    "location": "CLoud room",
+    "attendees": ["sayooj.k@example.com"],
+    "status": "cancelled"
   }
 ]
